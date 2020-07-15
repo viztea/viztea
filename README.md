@@ -6,17 +6,13 @@ Hello, I'm 2D! I'm a 15-year-old full-stack developer from the United States. I 
 
 > *ps: for things like vue and react I'm like partially good with them, I don't read through their APIs or use them enough lol.*
 
-- Javascript / TypeScript
-- HTML/CSS
-- Java and Kotlin
-- Vue
-- React
-- Bulma CSS
-- TailwindCSS
-- Koa
-- Express
-- MongoDB
-- RethinkDB
+- `Javascript` and `TypeScript`
+- `HTML` and `CSS`
+- `Java` and `Kotlin`
+- `Vue` and `React`
+- `Bulma CSS` and `TailwindCSS`
+- `Koa` and `Express`
+- `MongoDB` and `RethinkDB`
 
 ---
 
