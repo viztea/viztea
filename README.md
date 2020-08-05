@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello, I'm 2D! I'm a 15-year-old full-stack developer from the United States. I usually work on discord bots but I make npm packages from time to time (mostly revolving around discord xD), but I have done some UI/UX work... not very much though.
+Hello! I'm 2D, a 15-year-old self-taught developer from the United States. I usually work on discord bots but I do make npm packages from time to time (mostly revolving around discord xD). I have done some UI/UX work... not very much though.
 
 * **🔭** currently working on my new discord bot, [Kyu](https://github.com/kyudiscord), it will have a lot of cool features.   
 * **🌱** currently learning ✨ _nothing_ ✨ but... I do plan on learning [golang](https://golang.org/) or [rust](https://rust-lang.org/).
