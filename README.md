@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-Hello, I'm 2D! I'm a 15-year-old full-stack developer from the United States. I usually work on discord bots but I make npm packages from time to time (mostly revolving around discord xD), but I do some UI/UX work... not very much though. 
+Hello, I'm 2D! I'm a 15-year-old full-stack developer from the United States. I usually work on discord bots but I make npm packages from time to time (mostly revolving around discord xD), but I have done some UI/UX work... not very much though.
+
+* **🔭** currently working on my new discord bot, [Kyu](https://github.com/kyudiscord), it will have a lot of cool features.   
+* **🌱** currently learning ✨ _nothing_ ✨ but... I do plan on learning [golang](https://golang.org/) or [rust](https://rust-lang.org/).
 
 ### Stuff I know how to use.
 
@@ -12,7 +15,7 @@ Hello, I'm 2D! I'm a 15-year-old full-stack developer from the United States. I 
 - `Vue` and `React`
 - `Bulma CSS` and `TailwindCSS`
 - `Koa` and `Express`
-- `MongoDB` and `RethinkDB`
+- `MongoDB`, `RethinkDB`, and `PostgreSQL` ([`prisma`](https://prisma.io))
 
 ---
 
