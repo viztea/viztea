@@ -5,12 +5,19 @@ Hello! I'm Gino, a 15 y/o full-stack developer from California. I mostly create 
 * **🔭** I am currently working on **Mandroc**, the guild bound bot for [@MenuDocs](https://github.com/menudocs).
 * **🌱** I am learning how to use Kotlin and all of its quirks, I've used it quite a lot in the past week :)
 
-### Tools and Programming Languages
+#### Tools and Programming Languages
 
 - **Languages**: JavaScript, Typescript, Coffeescript (lmao), Kotlin, Java, HTML, and CSS/SCSS
 - **Tools**
   - **Frameworks**: Vue, React, [BulmaCSS](https://bulma.io), and [TailwindCSS](https://tailwindcss.com), Express, and Koa.
   - **Databases**: MongoDB, [RethinkDB](https://rethinkdb.com), and PostgreSQL (with [Prisma](https://prisma.io)).
+
+#### Projects I've Contributed To/made
+
+- **[lavalink](https://github.com/frederikam/lavalink) w/ filters**: <https://github.com/melike2d/lavalink>
+- **lavaclient**: <https://github.com/lavaclient>
+- **neocord**: <https://github.com/neo-cord>
+- **KyeKillerBot**: <https://teamkkb.xyz>
 
 ---
 
