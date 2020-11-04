@@ -12,9 +12,9 @@ Hello! I'm Gino, a 15 y/o full-stack developer from California. I mostly create 
   - **Frameworks**: Vue, React, [BulmaCSS](https://bulma.io), and [TailwindCSS](https://tailwindcss.com), Express, and Koa.
   - **Databases**: MongoDB, [RethinkDB](https://rethinkdb.com), and PostgreSQL (with [Prisma](https://prisma.io)).
 
-#### Projects I've Contributed To/made
+#### Projects I've contributed to or made
 
-- **[lavalink](https://github.com/frederikam/lavalink) w/ filters**: <https://github.com/melike2d/lavalink>
+- **[lavalink](https://github.com/frederikam/lavalink)** w/ filters: <https://github.com/melike2d/lavalink>
 - **lavaclient**: <https://github.com/lavaclient>
 - **neocord**: <https://github.com/neo-cord>
 - **KyeKillerBot**: <https://teamkkb.xyz>
