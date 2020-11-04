@@ -1,21 +1,16 @@
 # Hi there 👋
 
-Hello! I'm 2D, a 15-year-old self-taught developer from the United States. I usually work on discord bots but I do make npm packages from time to time (mostly revolving around discord xD). I have done some UI/UX work... not very much though.
+Hello! I'm Gino, a 15 y/o full-stack developer from California. I mostly create discord bots or discord related things, kinda what started my development adventure :) I've also made several NPM packages and some UI/UX stuff which I plan on improving (like my personal website)
 
-* **🔭** currently working on my new discord bot, [Kyu](https://github.com/kyudiscord), it will have a lot of cool features.   
-* **🌱** currently learning ✨ _nothing_ ✨ but... I do plan on learning [golang](https://golang.org/) or [rust](https://rust-lang.org/).
+* **🔭** I am currently working on **Mandroc**, the guild bound bot for [@MenuDocs](https://github.com/menudocs).
+* **🌱** I am learning how to use Kotlin and all of its quirks, I've used it quite a lot in the past week :)
 
-### Stuff I know how to use.
+### Tools and Programming Languages
 
-> *ps: for things like vue and react I'm like partially good with them, I don't read through their APIs or use them enough lol.*
-
-- `Javascript` and `TypeScript`
-- `HTML` and `CSS`
-- `Java` and `Kotlin`
-- `Vue` and `React`
-- `Bulma CSS` and `TailwindCSS`
-- `Koa` and `Express`
-- `MongoDB`, `RethinkDB`, and `PostgreSQL` ([`prisma`](https://prisma.io))
+- **Languages**: JavaScript, Typescript, Coffeescript (lmao), Kotlin, Java, HTML, and CSS
+- **Tools**: [Prisma](https://prisma.io), [BulmaCSS](https://bulma.io), and [TailwindCSS](https://tailwindcss.com)
+- **Frameworks**: Vue, React, Express, and Koa.
+- **Databases**: MongoDB, [RethinkDB](https://rethinkdb.com), and PostgreSQL.
 
 ---
 
