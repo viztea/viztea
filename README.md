@@ -7,10 +7,10 @@ Hello! I'm Gino, a 15 y/o full-stack developer from California. I mostly create 
 
 ### Tools and Programming Languages
 
-- **Languages**: JavaScript, Typescript, Coffeescript (lmao), Kotlin, Java, HTML, and CSS
-- **Tools**: [Prisma](https://prisma.io), [BulmaCSS](https://bulma.io), and [TailwindCSS](https://tailwindcss.com)
-- **Frameworks**: Vue, React, Express, and Koa.
-- **Databases**: MongoDB, [RethinkDB](https://rethinkdb.com), and PostgreSQL.
+- **Languages**: JavaScript, Typescript, Coffeescript (lmao), Kotlin, Java, HTML, and CSS/SCSS
+- **Tools**
+  - **Frameworks**: Vue, React, [BulmaCSS](https://bulma.io), and [TailwindCSS](https://tailwindcss.com), Express, and Koa.
+  - **Databases**: MongoDB, [RethinkDB](https://rethinkdb.com), and PostgreSQL (with [Prisma](https://prisma.io)).
 
 ---
 
