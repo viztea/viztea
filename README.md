@@ -17,6 +17,7 @@ Hello! I'm Gino, a 15 y/o full-stack developer from California. I mostly create 
 - **[lavalink](https://github.com/frederikam/lavalink)** w/ filters: <https://github.com/melike2d/lavalink>
 - **lavaclient**: <https://github.com/lavaclient>
 - **neocord**: <https://github.com/neo-cord>
+- **mixtape**: <https://github.com/mixtape-bot> ([`top.gg`](https://top.gg/bot/561151296170622976))
 - **KyeKillerBot**: <https://teamkkb.xyz>
 
 ---
