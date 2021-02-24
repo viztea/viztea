@@ -2,8 +2,9 @@
 
 Hello! I'm Gino, a 15 y/o full-stack developer from California. I mostly create discord bots or discord related things, kinda what started my development adventure :) I've also made several NPM packages and some UI/UX stuff which I plan on improving (like my personal website)
 
-* **🔭** I am currently working on **Mandroc**, the guild bound bot for [@MenuDocs](https://github.com/menudocs).
+<!-- * **🔭** I am currently working on **Mandroc**, the guild bound bot for [@MenuDocs](https://github.com/menudocs). -->
 * **🌱** I am learning how to use Kotlin and all of its quirks, I've used it quite a lot in the past week :)
+* **🔭** I am currently developing [Obsidian](https://github.com/mixtape-bot/obsidian), a soon to be open source standalone audio sending node like [Lavalink](https://github.com/frederikam/lavalink), or [Andesite](https://github.com/natanbc/andesite)
 
 #### Tools and Programming Languages
 
