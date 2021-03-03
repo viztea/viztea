@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello! I'm Gino, a 15 y/o full-stack developer from California. I mostly create discord bots or discord related things, kinda what started my development adventure :) I've also made several NPM packages and some UI/UX stuff which I plan on improving (like my personal website)
+Hello! I'm Gino, a full-stack developer from California. I mostly create discord bots or discord related things, kinda what started my development adventure :) I've also made several NPM packages and some UI/UX stuff which I plan on improving (like my personal website)
 
 <!-- * **🔭** I am currently working on **Mandroc**, the guild bound bot for [@MenuDocs](https://github.com/menudocs). -->
 * **🌱** I am learning how to use Kotlin and all of its quirks, I've used it quite a lot in the past week :)
