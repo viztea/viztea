@@ -8,9 +8,10 @@ Hello! I'm Gino, a full-stack developer from California. I mostly create discord
 
 #### Tools and Programming Languages
 
-- **Languages**: JavaScript, Typescript, Coffeescript (lmao), Kotlin, Java, Python, HTML, and CSS/SCSS
+- **Languages**: JavaScript, Typescript, Coffeescript, Kotlin, Java, Python, HTML, and CSS/SCSS
 - **Tools**
-  - **Frameworks**: Vue, React, [BulmaCSS](https://bulma.io), and [TailwindCSS](https://tailwindcss.com), Express, and Koa.
+  - **Web Development**: Vue, React, [BulmaCSS](https://bulma.io), and [TailwindCSS](https://tailwindcss.com)
+  - **Backend**: Express, Koa, and [Ktor](https://ktor.io)
   - **Databases**: MongoDB, [RethinkDB](https://rethinkdb.com), and PostgreSQL (with [Prisma](https://prisma.io)).
 
 #### Projects I've contributed to or made
@@ -18,8 +19,9 @@ Hello! I'm Gino, a full-stack developer from California. I mostly create discord
 - **[lavalink](https://github.com/frederikam/lavalink)** w/ filters: <https://github.com/melike2d/lavalink>
 - **lavaclient**: <https://github.com/lavaclient>
 - **neocord**: <https://github.com/neo-cord>
+- **KyeKillerBot**: <https://kyekillerbot.xyz>
 - **mixtape**: <https://github.com/mixtape-bot> ([`top.gg`](https://top.gg/bot/561151296170622976))
-- **KyeKillerBot**: <https://teamkkb.xyz>
+- **obsidian**: <https://github.com/mixtape-bot/obsidian>
 
 ---
 
