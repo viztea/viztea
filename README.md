@@ -6,7 +6,7 @@ Hello! I'm Gino, a full-stack developer from California. I mostly create discord
 * **🌱** I am learning how to use Kotlin and all of its quirks, I've used it quite a lot in the past week :)
 * **🔭** I am currently developing [Obsidian](https://github.com/mixtape-bot/obsidian), a standalone audio sending node like [Lavalink](https://github.com/frederikam/lavalink), or [Andesite](https://github.com/natanbc/andesite)
 
-#### Tools and Programming Languages
+##### Tools and Programming Languages
 
 - **Languages**: JavaScript, Typescript, Coffeescript, Kotlin, Java, Python, HTML, and CSS/SCSS
 - **Tools**
@@ -14,7 +14,7 @@ Hello! I'm Gino, a full-stack developer from California. I mostly create discord
   - **Backend**: Express, Koa, and [Ktor](https://ktor.io)
   - **Databases**: MongoDB, [RethinkDB](https://rethinkdb.com), and PostgreSQL (with [Prisma](https://prisma.io)).
 
-#### Projects I've contributed to or made
+##### Projects I've contributed to or made
 
 - **[lavalink](https://github.com/frederikam/lavalink)** w/ filters: <https://github.com/melike2d/lavalink>
 - **lavaclient**: <https://github.com/lavaclient>
