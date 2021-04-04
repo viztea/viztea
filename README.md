@@ -16,12 +16,10 @@ Hello! I'm Gino, a full-stack developer from California. I mostly create discord
 
 ##### Projects I've contributed to or made
 
-- **[lavalink](https://github.com/frederikam/lavalink)** w/ filters: <https://github.com/melike2d/lavalink>
-- **lavaclient**: <https://github.com/lavaclient>
-- **neocord**: <https://github.com/neo-cord>
-- **KyeKillerBot**: <https://kyekillerbot.xyz>
-- **mixtape**: <https://github.com/mixtape-bot> ([`top.gg`](https://top.gg/bot/561151296170622976))
-- **obsidian**: <https://github.com/mixtape-bot/obsidian>
+- [**lavaclient**](https://github.com/lavaclient): A nodejs lavalink client 
+- [**neocord**](https://github.com/neo-cord): A distributed nodejs library for interfacing with the Discord API and Gateway.
+- [**mixtape**](https://github.com/mixtape-bot): A discord music bot, ([`top.gg`](https://top.gg/bot/561151296170622976))
+- [**obsidian**](https://github.com/mixtape-bot/obsidian): A standalone audio node for music bots.
 
 ---
 
