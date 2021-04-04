@@ -25,7 +25,7 @@ Hello! I'm Gino, a full-stack developer from California. I mostly create discord
 
 You can find me in my discord server: <https://discord.gg/JrHfSmb>, or you can just dm me: `2D#5773`.
 
-[melike2d](https://melike2d.me) &copy; 2020
+[melike2d](https://dimensional.fun) &copy; 2018-2021
 
 <!--
 **MeLike2D/MeLike2D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
