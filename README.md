@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello! I'm Gino, a 16 y/o who's mostly a back-end developer. I say mostly back-end because I'm just not that experienced with front-end worl.
+Hello! I'm Gino, a 16 y/o who's mostly a back-end developer. I say mostly back-end because I'm just not that experienced with front-end work.
 
 ## About Me
 
