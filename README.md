@@ -38,7 +38,7 @@ I've also learned multiple languages like **Kotlin** and **Rust**.
 
 *in order of experience*
 
-- [TypeScript](https://www.typescriptlang.org) / JavaScriptffmp
+- [TypeScript](https://www.typescriptlang.org) / JavaScript
 - [Kotlin](https://kotlinlang.org/) / Java
 - HTML / CSS
 - Golang
