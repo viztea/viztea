@@ -17,7 +17,7 @@ I've also learned multiple languages like **Kotlin** and **Rust**.
   </a>
 </details>
 
-## As of *1/29/2022*
+## As of *3/19/2022*
 
 - **🔭** Currently working on [Mixtape](https://mixtape.systems), a discord music bot.
 - **🌱** I am learning **Golang**.
@@ -27,7 +27,7 @@ I've also learned multiple languages like **Kotlin** and **Rust**.
 ###### Projects
 
 > [**mixtape**](https://mixtape.systems/)  
-> A discord music bot that's in over **3,000** servers.
+> A discord music bot that's in over **3,600** servers.
 
 > [**lavaclient**](https://github.com/lavaclient)  
 > A nodejs lavalink client 
