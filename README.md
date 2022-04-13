@@ -1,6 +1,6 @@
 # Hello, I'm Gino.  👋 ![profile views](https://komarev.com/ghpvc/?username=melike2d)
 
-I'm a 16 y/o that was born and raised in California 🐻.   
+I'm a 17 y/o that was born and raised in California 🐻.   
 I've been coding since I was 13, I did some scripting before that but we don't talk about it :)
 
 ---
@@ -17,17 +17,16 @@ I've also learned multiple languages like **Kotlin** and **Rust**.
   </a>
 </details>
 
-## As of *3/19/2022*
+## As of *4/13/2022*
 
 - **🔭** Currently working on [Mixtape](https://mixtape.systems), a discord music bot.
-- **🌱** I am learning **Golang**.
 
 ## Things I've accomplished
 
 ###### Projects
 
 > [**mixtape**](https://mixtape.systems/)  
-> A discord music bot that's in over **3,600** servers.
+> A discord music bot that's in over **3,700** servers.
 
 > [**lavaclient**](https://github.com/lavaclient)  
 > A nodejs lavalink client 
