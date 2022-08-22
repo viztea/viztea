@@ -8,7 +8,7 @@ I've been coding since I was 13, I did some scripting before that but we don't t
 Discord bots and anything discord related has been my primary focus these _3 and a half years_, since then I've created NPM packages, Websites, and APIs.
 I've also started to learn languages like **Golang**, **Kotlin**, and **Rust**.
 
-##### The best way to contact me is through my Development Server [**here**](https://discord.gg/Vkbmb8kuH4).
+<!-- ##### The best way to contact me is through my Development Server [**here**](https://discord.gg/Vkbmb8kuH4). -->
 
 <details>
   <summary>Spotify</summary>
