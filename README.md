@@ -3,6 +3,9 @@
 I'm a 17 y/o that was born and raised in California 🐻.   
 I've been coding since I was 13, I did some scripting before that but we don't talk about it :)
 
+**Note:** 
+My Discord account (2D#5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new account (Gino#2918)
+
 ---
 
 Discord bots and anything discord related has been my primary focus these _3 and a half years_, since then I've created NPM packages, Websites, and APIs.
