@@ -1,16 +1,19 @@
-# My Discord account (2D#5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new account (Gino#2918)
-
 # Hello, I'm Gino.  👋 ![profile views](https://komarev.com/ghpvc/?username=melike2d)
 
 I'm a 17 y/o that was born and raised in California 🐻.   
 I've been coding since I was 13, I did some scripting before that but we don't talk about it :)
+
+<details>
+  <summary>Old Discord Account Warning</summary>
+  My old Discord account (2D#5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new account (Gino#2918)
+</details>
 
 ---
 
 Discord bots and anything discord related has been my primary focus these _3 and a half years_, since then I've created NPM packages, Websites, and APIs.
 I've also started to learn languages like **Golang**, **Kotlin**, and **Rust**.
 
-<!-- ##### The best way to contact me is through my Development Server [**here**](https://discord.gg/Vkbmb8kuH4). -->
+##### The best way to contact me is through the Dimensional Fun discord server [**here**](https://discord.gg/mNADeS6BtE).
 
 <details>
   <summary>Spotify</summary>
