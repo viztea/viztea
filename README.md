@@ -1,17 +1,17 @@
 # Hello, I'm Gino.  👋 ![profile views](https://komarev.com/ghpvc/?username=melike2d)
 
-I'm a 17 y/o that was born and raised in California 🐻.   
+I'm a 17-year-old that was born and raised in California 🐻.   
 I've been coding since I was 13, I did some scripting before that but we don't talk about it :)
 
 <details>
   <summary>Old Discord Account Warning</summary>
-  My old Discord account (2D#5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new account (Gino#2918)
+  My previous Discord account (2D#5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#2918)
 </details>
 
 ---
 
-Discord bots and anything discord related has been my primary focus these _3 and a half years_, since then I've created NPM packages, Websites, and APIs.
-I've also started to learn languages like **Golang**, **Kotlin**, and **Rust**.
+These past _4 years_ I've mainly been focusing on developing Discord Applications but since then I've also created many NPM packages, Websites, APIs, and other things.
+I started out with JavaScript but have moved on to languages such as [Kotlin](https://kotlinlang.org), Rust, and Golang.
 
 ##### The best way to contact me is through the Dimensional Fun discord server [**here**](https://discord.gg/8R4d8RydT4).
 
@@ -22,15 +22,15 @@ I've also started to learn languages like **Golang**, **Kotlin**, and **Rust**.
   </a>
 </details>
 
-## As of *4/13/2022*
+## As of *09/08/2022*
 
-- **🔭** Currently working on [Mixtape](https://mixtape.systems), a discord music bot.
+- **🔭** Currently expanding [Dimensional Fun](https://github.com/dimensional-fun)
 
 ## Things I've accomplished
 
 ###### Projects
 
-> [**mixtape**](https://mixtape.systems/)  
+> [**mixtape**](https://mixtape.systems/) (shutdown indefinitely)  
 > A discord music bot that's in over **3,700** servers.
 
 > [**lavaclient**](https://github.com/lavaclient)  
@@ -45,16 +45,17 @@ I've also started to learn languages like **Golang**, **Kotlin**, and **Rust**.
 - [TypeScript](https://www.typescriptlang.org) / JavaScript
 - [Kotlin](https://kotlinlang.org/) / Java
 - HTML / CSS
-- Golang
+- Golang*
 - Rust*
 - Python*
 - CoffeeScript*
 
 ###### Tools I've Used
 
-- **Backend**: Ktor, Koa, Express, Spring Boot, Gofiber, and VertX
-- **Frontend**: React, NextJS, Vue*, SCSS, Bulma, and TailwindCSS
-- **Databases**: MongoDB, PostgreSQL, Redis(JSON), and SQLite
+- **Frontend**: CSS, SCSS, React (primarily NextJS), Vue*, Svelte*, TailwindCSS, BulmaCSS
+- **Backend:** Ktor, Express, Fastify, Koa, Spring Boot, Gofiber, VertX*
+- **Databases**: MongoDB, PostgreSQL, SQLite, Redis(JSON)
+- **Other**: Linux (Arch, Debian, Ubuntu), Adobe Ps/Ai, Docker
 
 \* i'm a beginner to this
 
