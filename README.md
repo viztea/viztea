@@ -33,10 +33,10 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 > [**lavaclient**](https://github.com/lavaclient)  
 > A nodejs lavalink client 
 
-> [**krypton**](https://github.com/krypton-lib) 
+> [**krypton**](https://github.com/krypton-lib)  
 > A kotlin multi-platform player library
 
-> [**mixtape**](https://github.com/mixtape-bot) (shutdown) 
+> [**mixtape**](https://github.com/mixtape-bot) (shutdown)  
 > A discord music bot that's in over **3,700** servers.
 
 <!-- - [**keiryo**](https://github.com/keiryojs): A distributed nodejs library for interfacing with the Discord API and Gateway. -->
