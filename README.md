@@ -22,19 +22,22 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
   </a>
 </details>
 
-## As of *09/08/2022*
+## As of *10/18/2022*
 
-- **🔭** Currently expanding [Dimensional Fun](https://github.com/dimensional-fun)
+- **🔭** Currently expanding [Dimensional Fun](https://github.com/dimensional-fun) <sub>join our <a href="https://discord.gg/8R4d8RydT4">Discord Server</a></sub>
 
 ## Things I've accomplished
 
 ###### Projects
 
-> [**mixtape**](https://mixtape.systems/) (shutdown indefinitely)  
-> A discord music bot that's in over **3,700** servers.
-
 > [**lavaclient**](https://github.com/lavaclient)  
 > A nodejs lavalink client 
+
+> [**krypton**](https://github.com/krypton-lib) 
+> A kotlin multi-platform player library
+
+> [**mixtape**](https://github.com/mixtape-bot) (shutdown) 
+> A discord music bot that's in over **3,700** servers.
 
 <!-- - [**keiryo**](https://github.com/keiryojs): A distributed nodejs library for interfacing with the Discord API and Gateway. -->
 
@@ -43,8 +46,9 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 *in order of experience*
 
 - [TypeScript](https://www.typescriptlang.org) / JavaScript
-- [Kotlin](https://kotlinlang.org/) / Java
+- [Kotlin](https://kotlinlang.org/)
 - HTML / CSS
+- Java
 - Golang*
 - Rust*
 - Python*
@@ -53,7 +57,7 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 ###### Tools I've Used
 
 - **Frontend**: CSS, SCSS, React (primarily NextJS), Vue*, Svelte*, TailwindCSS, BulmaCSS
-- **Backend:** Ktor, Express, Fastify, Koa, Spring Boot, Gofiber, VertX*
+- **Backend:** Ktor, Express, Fastify, Koa, Spring Boot, Gofiber*, VertX*
 - **Databases**: MongoDB, PostgreSQL, SQLite, Redis(JSON)
 - **Other**: Linux (Arch, Debian, Ubuntu), Adobe Ps/Ai, Docker
 
@@ -61,4 +65,4 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ---
 
-[melike2d](https://dimensional.fun) &copy; 2018-2022
+[melike2d](https://2d.gay) &copy; 2018-2022
