@@ -22,8 +22,9 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
   </a>
 </details>
 
-## As of *10/18/2022*
+## As of *11/20/2022*
 
+- **✨** Currently working on [Kyu Bot](https://kyubot.app)
 - **🔭** Currently expanding [Dimensional Fun](https://github.com/dimensional-fun) <sub>join our <a href="https://discord.gg/8R4d8RydT4">Discord Server</a></sub>
 
 ## Things I've accomplished
@@ -32,6 +33,9 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 > [**lavaclient**](https://github.com/lavaclient)  
 > A nodejs lavalink client 
+
+> [**kyu bot**](https://kyubot.app)  
+> The Discord Bot of the Future.
 
 > [**krypton**](https://github.com/krypton-lib)  
 > A kotlin multi-platform player library
