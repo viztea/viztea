@@ -5,7 +5,7 @@ I've been coding since I was 13, I did some scripting before that but we don't t
 
 <details>
   <summary>Old Discord Account Warning</summary>
-  My previous Discord account (2D#5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#2918)
+  My previous Discord account (2D#5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
 </details>
 
 ---
