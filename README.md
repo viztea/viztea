@@ -17,13 +17,6 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ##### You can hire me to create a Discord Bot, DM me on Discord @Gino#0001!
 
-<details>
-  <summary>Spotify</summary>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=melike2d&redirect=true">
-    <img alt="spotify github profile" src="https://spotify-github-profile.vercel.app/api/view?uid=melike2d&cover_image=false&theme=default">
-  </a>
-</details>
-
 ## As of *11/20/2022*
 
 - **✨** Currently working on [Kyu Bot](https://kyubot.app)
