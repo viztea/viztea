@@ -55,12 +55,12 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ###### Tools I've Used
 
-- **Frontend**: CSS, SCSS, React (primarily NextJS), Vue*, Svelte*, TailwindCSS, BulmaCSS
-- **Backend:** Ktor, Express, Fastify, Koa, Spring Boot, Gofiber*, VertX*
+- **Frontend**: CSS, SCSS, React (primarily NextJS), Vue (primarily Nuxt 3), TailwindCSS, Svelte*, BulmaCSS
+- **Backend:** Ktor, Express, Fastify, Koa, Spring Boot, unjs/h3, Gofiber*, VertX*
 - **Databases**: MongoDB, PostgreSQL, SQLite, Redis(JSON)
 - **Other**: Linux (Arch, Debian, Ubuntu), Adobe Ps/Ai, Docker
 
-\* i'm a beginner to this
+\* i've only done a little bit of dabbling
 
 ---
 
