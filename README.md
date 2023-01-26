@@ -5,7 +5,7 @@ I've been coding since I was 13, I did some scripting before that but we don't t
 
 <details>
   <summary>Old Discord Account Warning</summary>
-  My previous Discord account (2D#1773/5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
+  My previous Discord account (2D#1337/5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
 </details>
 
 ---
@@ -17,10 +17,10 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ##### You can hire me to create a Discord Bot, DM me on Discord @Gino#0001!
 
-## As of *11/20/2022*
+## As of **January 26, 2023**
 
-- **✨** Currently working on [Kyu Bot](https://kyubot.app)
-- **🔭** Currently expanding [Dimensional Fun](https://github.com/dimensional-fun) <sub>join our <a href="https://discord.gg/8R4d8RydT4">Discord Server</a></sub>
+- **✨** I am currently working on [Kyu Bot](https://kyubot.app)
+- **🔭** Expanding [Dimensional Fun](https://github.com/dimensional-fun) 
 
 ## Things I've accomplished
 
@@ -32,11 +32,11 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 > [**kyu bot**](https://kyubot.app)  
 > The Discord Bot of the Future.
 
-> [**krypton**](https://github.com/krypton-lib)  
-> A kotlin multi-platform player library
+<!-- > [**krypton**](https://github.com/krypton-lib)   -->
+<!-- > A kotlin multi-platform player library -->
 
-> [**mixtape**](https://github.com/mixtape-bot) (shutdown)  
-> A discord music bot that's in over **3,700** servers.
+<!-- > [**mixtape**](https://github.com/mixtape-bot) (shutdown)   -->
+<!-- > A discord music bot that's in over **3,700** servers. -->
 
 <!-- - [**keiryo**](https://github.com/keiryojs): A distributed nodejs library for interfacing with the Discord API and Gateway. -->
 
@@ -64,4 +64,4 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ---
 
-[melike2d](https://2d.gay) &copy; 2018-2022
+[melike2d](https://2d.gay) &copy; 2018 - Current Year
