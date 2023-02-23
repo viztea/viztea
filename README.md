@@ -3,11 +3,6 @@
 I'm a 17-year-old that was born and raised in California 🐻.   
 I've been coding since I was 13, I did some scripting before that but we don't talk about it :)
 
-<details>
-  <summary>Old Discord Account Warning</summary>
-  My previous Discord account (2D#1337/5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
-</details>
-
 ---
 
 These past _4 years_ I've mainly been focusing on developing Discord Applications but since then I've also created many NPM packages, Websites, APIs, and other things.
@@ -55,7 +50,7 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ###### Tools I've Used
 
-- **Frontend**: CSS, SCSS, React (primarily NextJS), Vue (primarily Nuxt 3), TailwindCSS, Svelte*, BulmaCSS
+- **Frontend**: CSS, SCSS, React (primarily NextJS), Vue (primarily Nuxt 3), Svelte (primarily Kit), TailwindCSS, BulmaCSS
 - **Backend:** Ktor, Express, Fastify, Koa, Spring Boot, unjs/h3, Gofiber*, VertX*
 - **Databases**: MongoDB, PostgreSQL, SQLite, Redis(JSON)
 - **Other**: Linux (Arch, Debian, Ubuntu), Adobe Ps/Ai, Docker
@@ -63,5 +58,10 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 \* i've only done a little bit of dabbling
 
 ---
+
+<details>
+  <summary>Old Discord Account Warning</summary>
+  My previous Discord account (2D#1337/5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
+</details>
 
 [melike2d](https://2d.gay) &copy; 2018 - Current Year
