@@ -1,6 +1,6 @@
 # Hello, I'm Gino.  👋 ![profile views](https://komarev.com/ghpvc/?username=melike2d)
 
-I'm a 17-year-old that was born and raised in California 🐻.   
+I'm an 18-year-old that was born and raised in California 🐻.   
 I've been coding since I was 13, I did some scripting before that but we don't talk about it :)
 
 ---
