@@ -5,16 +5,16 @@ I've been coding since I was 13, I did some scripting before that but we don't t
 
 ---
 
-These past _4 years_ I've mainly been focusing on developing Discord Applications but since then I've also created many NPM packages, Websites, APIs, and other things.
+These past _5 years_ I've mainly been focusing on developing Discord Applications but since then I've also created many NPM packages, Websites, APIs, and other things.
 I started out with JavaScript but have moved on to languages such as [Kotlin](https://kotlinlang.org), Rust, and Golang.
 
 ##### The best way to contact me is through the Dimensional Fun discord server [**here**](https://discord.gg/8R4d8RydT4).
 
 ##### You can hire me to create a Discord Bot, DM me on Discord @Gino#0001!
 
-## As of **January 26, 2023**
+## As of **May 26, 2023**
 
-- **✨** I am currently working on [Kyu Bot](https://kyubot.app)
+- **✨** I am currently working on [Kyu Bot](https://kyubot.app) & [BeeBoop](https://music.kyubot.app) (name pending)
 - **🔭** Expanding [Dimensional Fun](https://github.com/dimensional-fun) 
 
 ## Things I've accomplished
@@ -59,9 +59,9 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ---
 
-<details>
+<!-- <details>
   <summary>Old Discord Account Warning</summary>
-  My previous Discord account (2D#1337/5773) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
-</details>
+  My previous Discord account (396096412116320258 ) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
+</details> -->
 
 [melike2d](https://2d.gay) &copy; 2018 - Current Year
