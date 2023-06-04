@@ -27,7 +27,7 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 > [**kyu bot**](https://kyubot.app)  
 > The Discord Bot of the Future.
 
-> [**keia**](https://keia.one)
+> [**keia**](https://keia.one)  
 > The Next Generation Music Bot
 
 <!-- > [**krypton**](https://github.com/krypton-lib)   -->
