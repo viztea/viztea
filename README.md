@@ -12,9 +12,9 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 ##### You can hire me to create a Discord Bot, DM me on Discord @Gino#0001!
 
-## As of **May 26, 2023**
+## As of **June 3rd, 2023**
 
-- **✨** I am currently working on [Kyu Bot](https://kyubot.app) & [BeeBoop](https://music.kyubot.app) (name pending)
+- **✨** I am currently working on [Kyu Bot](https://kyubot.app) & [Keia](https://keia.one)
 - **🔭** Expanding [Dimensional Fun](https://github.com/dimensional-fun) 
 
 ## Things I've accomplished
@@ -26,6 +26,9 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 > [**kyu bot**](https://kyubot.app)  
 > The Discord Bot of the Future.
+
+> [**keia**](https://keia.one)
+> The Next Generation Music Bot
 
 <!-- > [**krypton**](https://github.com/krypton-lib)   -->
 <!-- > A kotlin multi-platform player library -->
