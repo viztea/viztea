@@ -15,7 +15,7 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 ## As of **June 27rd, 2023**
 
 - **✨** I am currently working on [Kyu Bot](https://kyubot.app) & [Keia](https://keia.one)
-- **🔥** I also work on a _Minecraft Server_ called [Firestarter](https://firestarterm.com)!
+- **🔥** I also work on a _Minecraft Server_ called [Firestarter](https://firestartermc.com)!
 - **🔭** Expanding [Dimensional Fun](https://github.com/dimensional-fun) 
 
 ## Things I've accomplished
