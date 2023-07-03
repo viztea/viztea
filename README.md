@@ -1,18 +1,15 @@
 # Hello, I'm Gino.  👋 ![profile views](https://komarev.com/ghpvc/?username=melike2d)
 
 I'm an 18-year-old that was born and raised in California 🐻.   
-I've been coding since I was 13, I did some scripting before that but we don't talk about it :)
 
 ---
 
-These past _5 years_ I've mainly been focusing on developing Discord Applications but since then I've also created many NPM packages, Websites, APIs, and other things.
-I started out with JavaScript but have moved on to languages such as [Kotlin](https://kotlinlang.org), Rust, and Golang.
+I've been coding since I was 13 (5 years) and I've mainly been focusing on developing Discord Applications but I've also created many APIs, Websites, Applications, andopen-source libraries.
+JavaScript was the first language I learned and was my primary one for a couple of years but since then [Kotlin](https://kotl.in) and [TypeScript](https://typescriptlang.org) have become my favorites but I do dabble in Golang and Rust from time to time.
 
 ##### The best way to contact me is through the Dimensional Fun discord server [**here**](https://discord.gg/8R4d8RydT4).
 
-##### You can hire me to create a Discord Bot, DM me on Discord @Gino#0001!
-
-## As of **June 27rd, 2023**
+## As of **July 3rd, 2023**
 
 - **✨** I am currently working on [Kyu Bot](https://kyubot.app) & [Keia](https://keia.one)
 - **🔥** I also work on a _Minecraft Server_ called [Firestarter](https://firestartermc.com)!
@@ -29,15 +26,7 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 > The Discord Bot of the Future.
 
 > [**keia**](https://keia.one)  
-> The Next Generation Music Bot
-
-<!-- > [**krypton**](https://github.com/krypton-lib)   -->
-<!-- > A kotlin multi-platform player library -->
-
-<!-- > [**mixtape**](https://github.com/mixtape-bot) (shutdown)   -->
-<!-- > A discord music bot that's in over **3,700** servers. -->
-
-<!-- - [**keiryo**](https://github.com/keiryojs): A distributed nodejs library for interfacing with the Discord API and Gateway. -->
+> The Next Generation Music Bot.
 
 ###### Languages I've Learned
 
@@ -56,7 +45,7 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 - **Frontend**: CSS, SCSS, React (primarily NextJS), Vue (primarily Nuxt 3), Svelte (primarily Kit), TailwindCSS, BulmaCSS
 - **Backend:** Ktor, Express, Fastify, Koa, Spring Boot, unjs/h3, Gofiber*, VertX*
-- **Databases**: MongoDB, PostgreSQL, SQLite, Redis(JSON)
+- **Databases**: PostgreSQL, MongoDB, MySQL, Planetscale, Redis (JSON), Upstash, SQLite
 - **Other**: Linux (Arch, Debian, Ubuntu), Adobe Ps/Ai, Docker
 
 \* i've only done a little bit of dabbling
@@ -65,7 +54,7 @@ I started out with JavaScript but have moved on to languages such as [Kotlin](ht
 
 <!-- <details>
   <summary>Old Discord Account Warning</summary>
-  My previous Discord account (396096412116320258 ) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
+  My previous Discord account (396096412116320258) has been compromised... if anything has been sent to you: report the account and DM screenshots to my new main account (Gino#0001)
 </details> -->
 
 [melike2d](https://2d.gay) &copy; 2018 - Current Year
