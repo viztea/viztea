@@ -8,8 +8,6 @@ Currently, I'm very focused on dog-fooding a bunch of libraries for the Kotlin M
 
 ## Tools & Such
 
-*in order of experience*
-
 ### Languages
 
 - [TypeScript](https://www.typescriptlang.org) / JavaScript
@@ -34,4 +32,4 @@ I don't often reply to DMs but if you must contact me you can do so through my <
 
 ---
 
-[viztea](https://2d.gay) &copy; 2023
+[viztea](https://vzt.gay) &copy; 2024
